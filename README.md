@@ -8,7 +8,7 @@ User can type an event name into a green field, then click the adjacent button t
 
 ## -- Example appearance --
 
-![WS Example](assets/images/Work-Schedule-Example.PNG "Work Schedule Example")
+![WS Example](Assets/images/Work-Schedule-Example.PNG "Work Schedule Example")
 
 ### -- *Functionality to be added* --
 
